@@ -1,0 +1,345 @@
+{
+  "meta": {
+    "logo": "SUNAY",
+    "hireCta": "Hire Me"
+  },
+  "name": {
+    "first": "SUNAY",
+    "last": ""
+  },
+  "tagline": "Crafting exceptional digital experiences through clean code and thoughtful design. Based in San Francisco, building things that matter.",
+  "about": {
+    "photo": "",
+    "initials": "SUN",
+    "badge": "AVAILABLE FOR HIRE",
+    "bio": [
+      "Hi, I'm SUNAY— a passionate Full Stack Developer with 3+ years of experience building scalable web applications and intuitive interfaces. I thrive at the intersection of design and engineering.",
+      "My journey started with pure curiosity — taking apart websites to see how they worked. That curiosity evolved into a craft I now practice daily, building products used by thousands.",
+      "When I'm not coding, you'll find me contributing to open source, mentoring junior developers, or exploring the latest in AI and machine learning.",
+      "SFSHF;SZUYTRFGHXDKgkjvs;/fhgud:?HDFGaGdlhgafcad"
+    ],
+    "stats": [
+      {
+        "num": "15+",
+        "label": "Projects"
+      },
+      {
+        "num": "3+",
+        "label": "Years Exp"
+      },
+      {
+        "num": "6+",
+        "label": "Certifications"
+      },
+      {
+        "num": "21+",
+        "label": "sleeping"
+      }
+    ]
+  },
+  "roles": [
+    "Full Stack Developer",
+    "UI/UX Designer",
+    "Problem Solver",
+    "Open Source Contributor",
+    "Tech Enthusiast"
+  ],
+  "skills": [
+    {
+      "category": "Frontend",
+      "items": [
+        {
+          "name": "React / Next.js",
+          "pct": 92
+        },
+        {
+          "name": "TypeScript",
+          "pct": 88
+        },
+        {
+          "name": "CSS / Tailwind",
+          "pct": 95
+        }
+      ],
+      "tags": [
+        "Vue.js",
+        "HTML5",
+        "GSAP",
+        "Framer"
+      ]
+    },
+    {
+      "category": "Backend",
+      "items": [
+        {
+          "name": "Node.js / Express",
+          "pct": 85
+        },
+        {
+          "name": "Python / Django",
+          "pct": 78
+        },
+        {
+          "name": "REST / GraphQL",
+          "pct": 88
+        }
+      ],
+      "tags": [
+        "PostgreSQL",
+        "MongoDB",
+        "Redis"
+      ]
+    },
+    {
+      "category": "DevOps & Tools",
+      "items": [
+        {
+          "name": "Git / GitHub",
+          "pct": 90
+        },
+        {
+          "name": "Docker / Kubernetes",
+          "pct": 70
+        },
+        {
+          "name": "AWS / Vercel",
+          "pct": 80
+        }
+      ],
+      "tags": [
+        "CI/CD",
+        "Linux",
+        "Figma"
+      ]
+    },
+    {
+      "category": "Eating",
+      "items": [
+        {
+          "name": "twyeui",
+          "pct": 89
+        },
+        {
+          "name": "sdsgfdg",
+          "pct": 65
+        },
+        {
+          "name": "xfggdggdgshhj",
+          "pct": 70
+        }
+      ],
+      "tags": []
+    }
+  ],
+  "education": [
+    {
+      "year": "2027",
+      "title": "COMPER ENGINEERING",
+      "institution": "MIT",
+      "description": "GDK,ADWWHD"
+    },
+    {
+      "year": "2021 — 2025",
+      "title": "B.Tech — Computer Science & Engineering",
+      "institution": "SIDDHARTH INSTUTE OF ENGINEERING TECHNOLOGY",
+      "description": "Specialized in Software Engineering and Distributed Systems. Graduated with Distinction (CGPA 8.9/10). Coursework: DSA, OS, DBMS, AI/ML."
+    },
+    {
+      "year": "2019 — 2021",
+      "title": "Higher Secondary (XII) — Science",
+      "institution": "NARAYANA SCHOOL",
+      "description": "Secured 94.2% in CBSE Board. Subjects: Physics, Chemistry, Mathematics, Computer Science."
+    },
+    {
+      "year": "Before 2019",
+      "title": "Secondary Education (X)",
+      "institution": "DEEPTHI COLLEGE",
+      "description": "CGPA 10/10. School topper. Active in Computer Science Club and Math Olympiad."
+    }
+  ],
+  "projects": [
+    {
+      "logo": "",
+      "year": "124",
+      "title": "SYFVCVSNDLJDS",
+      "description": "WFHSZHSL.FZH",
+      "stack": [
+        "SFSBABK",
+        "JDHALDHL"
+      ],
+      "link": ""
+    },
+    {
+      "logo": "🧠",
+      "year": "2024",
+      "title": "NeuroTask — AI Task Manager",
+      "description": "An intelligent task manager that uses NLP to auto-categorize, prioritize and time-estimate tasks. Integrated with OpenAI API.",
+      "stack": [
+        "React",
+        "Node.js",
+        "OpenAI",
+        "MongoDB"
+      ],
+      "link": "#"
+    },
+    {
+      "logo": "📈",
+      "year": "2023",
+      "title": "TradeViz — Stock Dashboard",
+      "description": "Real-time stock analytics with interactive charts, portfolio tracking and ML-powered trend predictions using 5 years of data.",
+      "stack": [
+        "React",
+        "Python",
+        "D3.js",
+        "TensorFlow"
+      ],
+      "link": "#"
+    },
+    {
+      "logo": "🔐",
+      "year": "2023",
+      "title": "SecureVault — Password Manager",
+      "description": "End-to-end encrypted password manager with zero-knowledge architecture, AES-256 encryption and biometric auth.",
+      "stack": [
+        "React Native",
+        "Node.js",
+        "PostgreSQL"
+      ],
+      "link": "#"
+    },
+    {
+      "logo": "✍️",
+      "year": "2022",
+      "title": "BlogForge — Headless CMS",
+      "description": "Modern headless CMS with visual page builder, markdown support, SEO tools and JAMstack deployment pipelines.",
+      "stack": [
+        "Next.js",
+        "Sanity",
+        "GraphQL",
+        "Vercel"
+      ],
+      "link": "#"
+    }
+  ],
+  "internships": [
+    {
+      "logo": "INFOYSS",
+      "year": "3456",
+      "company": "INFO",
+      "role": "INTREN",
+      "period": "MAY 4567 -FTYHUJI 6789.PORT",
+      "description": "ZFHZL.KDHL.DJL/JAD;D"
+    },
+    {
+      "logo": "W",
+      "year": "2024",
+      "company": "WIPRO",
+      "role": "Frontend Developer Intern",
+      "period": "Dec 2023 — Feb 2024 · Bangalore, IN",
+      "description": "Redesigned the client portal UI using React, improving user engagement by 45%. Implemented micro-frontend architecture and an A/B testing framework."
+    },
+    {
+      "logo": "S",
+      "year": "2023",
+      "company": "STARTUP.XYZ",
+      "role": "Full Stack Developer Intern",
+      "period": "May 2023 — Jul 2023 · Remote",
+      "description": "Sole developer on a B2B SaaS MVP from scratch. Built APIs, admin dashboard and Stripe payment integration. Product acquired 50+ beta users."
+    }
+  ],
+  "certifications": [
+    {
+      "icon": "",
+      "year": "",
+      "name": "AEHAL.DHal>k>hdLAkH",
+      "issuer": "AASHWLJPW",
+      "image": "",
+      "description": ""
+    },
+    {
+      "icon": "🔐",
+      "name": "Google Cybersecurity Certificate",
+      "issuer": "Google via Coursera",
+      "year": "2024",
+      "image": "",
+      "description": "Covers network security, Linux, SQL, Python scripting, SIEM tools and incident response playbooks."
+    },
+    {
+      "icon": "🎨",
+      "name": "UI/UX Design Professional",
+      "issuer": "Google via Coursera",
+      "year": "2022",
+      "image": "",
+      "description": "End-to-end design process: user research, wireframing, prototyping and usability testing with Figma."
+    },
+    {
+      "icon": "🧠",
+      "name": "Deep Learning Specialization",
+      "issuer": "DeepLearning.AI / Andrew Ng",
+      "year": "2024",
+      "image": "",
+      "description": "Neural networks, CNNs, RNNs, Transformers, hyperparameter tuning and ML project structuring."
+    }
+  ],
+  "contact": {
+    "headline": "READY TO BUILD SOMETHING GREAT? MFJUFT",
+    "intro": "Whether you have a project in mind, a role to fill, or just want to connect — I'd love to hear from you.",
+    "details": [
+      {
+        "icon": "✉",
+        "text": "djgfjhtilgilg@gmail.com"
+      },
+      {
+        "icon": "📞",
+        "text": "1234567890-"
+      },
+      {
+        "icon": "📍",
+        "text": "gjkzfjszhfsofhs"
+      },
+      {
+        "icon": "💼",
+        "text": "linkedin.com/in/alexmorgan"
+      }
+    ],
+    "socials": [
+      {
+        "label": "GitHub",
+        "link": "#"
+      },
+      {
+        "label": "LinkedIn",
+        "link": "#"
+      },
+      {
+        "label": "Twitter",
+        "link": "#"
+      },
+      {
+        "label": "Dribbble",
+        "link": "#"
+      }
+    ]
+  },
+  "footer": {
+    "year": "2026-2029",
+    "socials": [
+      {
+        "label": "GH",
+        "title": "GitHub",
+        "link": "#"
+      },
+      {
+        "label": "LI",
+        "title": "LinkedIn",
+        "link": "#"
+      },
+      {
+        "label": "TW",
+        "title": "Twitter",
+        "link": "#"
+      }
+    ]
+  },
+  "availability": ""
+}
