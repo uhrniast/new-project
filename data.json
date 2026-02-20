@@ -134,7 +134,7 @@
   "education": [
     {
       "year": "2027",
-      "title": "COMPER ENGINEERING",
+      "title": "COMPER ENGINEERING telugu meium",
       "institution": "MIT",
       "description": "GDK,ADWWHD"
     },
@@ -223,6 +223,14 @@
   ],
   "internships": [
     {
+      "logo": "gkg,fgfsskjdhlwah",
+      "year": ",07453",
+      "company": "fbszlkdhsaldsal",
+      "role": "adfdfadl.",
+      "period": "",
+      "description": ""
+    },
+    {
       "logo": "INFOYSS",
       "year": "3456",
       "company": "INFO",
@@ -251,33 +259,41 @@
     {
       "icon": "",
       "year": "",
+      "name": "hlhdl.zhdl.ahdl",
+      "issuer": "zczkjkcgcgzskchsal.k",
+      "image": "https://drive.google.com/file/d/1S1rXZkYNCQH8tKHICNWLPJ2wcQ4pR6gt/view?usp=drivesdk",
+      "description": ""
+    },
+    {
+      "icon": "",
+      "year": "",
       "name": "AEHAL.DHal>k>hdLAkH",
       "issuer": "AASHWLJPW",
-      "image": "",
+      "image": "https://drive.google.com/file/d/1S1rXZkYNCQH8tKHICNWLPJ2wcQ4pR6gt/view?usp=drivesdk",
       "description": ""
     },
     {
       "icon": "🔐",
+      "year": "2024",
       "name": "Google Cybersecurity Certificate",
       "issuer": "Google via Coursera",
-      "year": "2024",
-      "image": "",
+      "image": "https://drive.google.com/file/d/1S1rXZkYNCQH8tKHICNWLPJ2wcQ4pR6gt/view?usp=drivesdk",
       "description": "Covers network security, Linux, SQL, Python scripting, SIEM tools and incident response playbooks."
     },
     {
       "icon": "🎨",
+      "year": "2022",
       "name": "UI/UX Design Professional",
       "issuer": "Google via Coursera",
-      "year": "2022",
-      "image": "",
+      "image": "https://drive.google.com/file/d/1S1rXZkYNCQH8tKHICNWLPJ2wcQ4pR6gt/view?usp=drivesdk",
       "description": "End-to-end design process: user research, wireframing, prototyping and usability testing with Figma."
     },
     {
       "icon": "🧠",
+      "year": "2024",
       "name": "Deep Learning Specialization",
       "issuer": "DeepLearning.AI / Andrew Ng",
-      "year": "2024",
-      "image": "",
+      "image": "https://drive.google.com/file/d/1S1rXZkYNCQH8tKHICNWLPJ2wcQ4pR6gt/view?usp=drivesdk",
       "description": "Neural networks, CNNs, RNNs, Transformers, hyperparameter tuning and ML project structuring."
     }
   ],
