@@ -49,7 +49,7 @@
       "category": "Frontend",
       "items": [
         {
-          "name": "React / Next.js",
+          "name": "Html",
           "pct": 92
         },
         {
@@ -98,7 +98,7 @@
           "pct": 90
         },
         {
-          "name": "Docker / Kubernetes",
+          "name": "Docker ",
           "pct": 70
         },
         {
@@ -111,61 +111,39 @@
         "Linux",
         "Figma"
       ]
-    },
-    {
-      "category": "Eating",
-      "items": [
-        {
-          "name": "twyeui",
-          "pct": 89
-        },
-        {
-          "name": "sdsgfdg",
-          "pct": 65
-        },
-        {
-          "name": "xfggdggdgshhj",
-          "pct": 70
-        }
-      ],
-      "tags": []
     }
   ],
   "education": [
     {
-      "year": "2027",
-      "title": "COMPER ENGINEERING telugu meium",
-      "institution": "MIT",
-      "description": "GDK,ADWWHD"
-    },
-    {
-      "year": "2021 — 2025",
-      "title": "B.Tech — Computer Science & Engineering",
+      "year": "2022-2026",
+      "title": "B.Tech — Computer Science & Engineering(CIC)",
       "institution": "SIDDHARTH INSTUTE OF ENGINEERING TECHNOLOGY",
-      "description": "Specialized in Software Engineering and Distributed Systems. Graduated with Distinction (CGPA 8.9/10). Coursework: DSA, OS, DBMS, AI/ML."
+      "description": "Specialized in Software Engineering and Distributed Systems. Graduated with Distinction (CGPA 7.6/10). Coursework: DSA, OS, DBMS, AI/ML."
     },
     {
-      "year": "2019 — 2021",
-      "title": "Higher Secondary (XII) — Science",
-      "institution": "NARAYANA SCHOOL",
-      "description": "Secured 94.2% in CBSE Board. Subjects: Physics, Chemistry, Mathematics, Computer Science."
+      "year": "2020-2022",
+      "title": "Higher Secondary (XII) — Intermediate",
+      "institution": "Deepthi Junior College",
+      "description": "Secured 75% in Secondary Board. Subjects: Physics, Chemistry, Mathematics."
     },
     {
-      "year": "Before 2019",
+      "year": "2020",
       "title": "Secondary Education (X)",
-      "institution": "DEEPTHI COLLEGE",
-      "description": "CGPA 10/10. School topper. Active in Computer Science Club and Math Olympiad."
+      "institution": "NARAYANA  GROUP OF SCHOOLS",
+      "description": "CGPA 9.8/10. School topper. Active in Computer Science Club and Math Olympiad."
     }
   ],
   "projects": [
     {
       "logo": "",
-      "year": "124",
-      "title": "SYFVCVSNDLJDS",
-      "description": "WFHSZHSL.FZH",
+      "year": "2026",
+      "title": "A Multi-Layer Framework for Secure and Scalable   permissioned Blockchain Integration in Industrial",
+      "description": "Design and Developing the Multi-Layer Framework for Secure and Scalable Permissioned Blockchain Integration in Industrial IoT Systems\n\nIdentifying challenges and gaps from existing architecture and also Analyzing consensus protocols, governance models and interoperability mechanisms.",
       "stack": [
-        "SFSBABK",
-        "JDHALDHL"
+        "Html",
+        "Css",
+        "JS",
+        "JSON"
       ],
       "link": ""
     },
